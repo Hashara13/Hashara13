@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hashara</h1>
-<h3 align="center">I am a passionate and driven IT undergraduate with a strong interest in software development & Software QA</h3>
+<h3 align="center">I am a passionate and driven IT undergraduate with a strong interest in software development & Software Quality Assuarance</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashara13" alt="hashara13" /></a> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **ExpressJs**
 
-- 📝 I regularly write articles on [https://medium.com/@nethhashara](https://medium.com/@nethhashara)
+- 📝 I regularly write articles on [https://hasharanethmin.medium.com/](https://hasharanethmin.medium.com/)
 
 - 💬 Ask me about **MEARN**
 
-- 📫 How to reach me **nethhashara@gmail.com**
+- 📫 How to reach me **hnethmin13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
