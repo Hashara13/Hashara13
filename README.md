@@ -31,3 +31,30 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashara13&show_icons=true&locale=en" alt="hashara13" /></p>
 
+## Profile Views Counter
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hashara13)
+
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hashara13&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Activity Graph
+
+[![Hashara's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hashara13&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Dynamic Quotes
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
+
+## My Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+
+## Fun Stuff
+
+![Coding](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+
+
