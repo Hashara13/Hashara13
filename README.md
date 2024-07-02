@@ -39,22 +39,24 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hashara13&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Activity Graph
-
-[![Hashara's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hashara13&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## Dynamic Quotes
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
-
 ## My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
+![TestNG](https://img.shields.io/badge/-TestNG-black?style=flat-square&logo=testng)
+![JUnit](https://img.shields.io/badge/-JUnit-black?style=flat-square&logo=junit5)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
-## Fun Stuff
+## Contact
 
-![Coding](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+- Email: hnethmin13@gmail.com
+- Portfolio: [Hashara Nethmin Portfolio](https://hashara13.github.io/HasharaNethmin-Portfolio-/)
 
+## Blog
 
+- [Medium](https://medium.com/@hasharanethmin)
+- [Personal Blog](https://hasharanethmin.blogspot.com/)
