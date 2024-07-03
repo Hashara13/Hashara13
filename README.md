@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ5N3hlemFzcGE3ajg1NGo5N2FjamhiZTd4Z2NwdzNmMmFrODc1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="animated cover">
-  <br>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDU5MGExbzZvYmFhZWdhNGRkOG9yYWVod2Zsc3J3YXM2b3RhMmE0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="animated cover">
   Hi 👋, I'm 
   <a href="https://github.com/hashara13">
     <span style="color: #2f54eb; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);" class="animated-name">
@@ -10,36 +9,28 @@
 </h1>
 <h3 align="center">I am a passionate and driven IT undergraduate with a strong interest in software development & Software Quality Assurance</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hashara13&theme=darkhub" alt="hashara13" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/hashara_nethmin" target="blank">
     <img src="https://img.shields.io/twitter/follow/hashara_nethmin?logo=twitter&style=for-the-badge" alt="hashara nethmin" />
   </a>
 </p>
 
-<p align="center">
-  - 🌱 I’m currently learning **ExpressJs**
-</p>
+- 🌱 I’m currently learning **ExpressJs**
 
-<p align="center">
-  - 📝 I regularly write articles on [Medium](https://hasharanethmin.medium.com/)
-</p>
+- 📝 I regularly write articles on [Medium](https://hasharanethmin.medium.com/)
 
-<p align="center">
-  - 💬 Ask me about **MEARN**
-</p>
+- 💬 Ask me about **MEARN**
 
-<p align="center">
-  - 📫 How to reach me **hnethmin13@gmail.com**
-</p>
+- 📫 How to reach me **hnethmin13@gmail.com**
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
@@ -93,48 +84,42 @@
   </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashara13&show_icons=true&locale=en&layout=compact&theme=radical" alt="hashara13" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashara13&show_icons=true&locale=en&layout=compact&theme=radical" alt="hashara13" />
 </p>
 
-<p align="center">&nbsp;
+<p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hashara13&show_icons=true&locale=en&theme=radical" alt="hashara13" />
 </p>
 
-<h3 align="center">Profile Views Counter</h3>
-<p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=Hashara13&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+## Profile Views Counter
 
-<h3 align="center">My Tech Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask" alt="Flask" />
-  <img src="https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium" alt="Selenium" />
-  <img src="https://img.shields.io/badge/-TestNG-black?style=flat-square&logo=testng" alt="TestNG" />
-  <img src="https://img.shields.io/badge/-JUnit-black?style=flat-square&logo=junit5" alt="JUnit" />
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" alt="Java" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Hashara13&color=blueviolet&style=flat-square)
 
-<h3 align="center">Contact</h3>
-<p align="center">
-  - Email: hnethmin13@gmail.com
-  <br>
-  - Portfolio: <a href="https://hashara13.github.io/HasharaNethmin-Portfolio-/">Hashara Nethmin Portfolio</a>
-</p>
+## My Tech Stack
 
-<h3 align="center">Blog</h3>
-<p align="center">
-  - <a href="https://medium.com/@hasharanethmin">Medium</a>
-  <br>
-  - <a href="https://hasharanethmin.blogspot.com/">Personal Blog</a>
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
+![TestNG](https://img.shields.io/badge/-TestNG-black?style=flat-square&logo=testng)
+![JUnit](https://img.shields.io/badge/-JUnit-black?style=flat-square&logo=junit5)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+## Contact
+
+- Email: hnethmin13@gmail.com
+- Portfolio: [Hashara Nethmin Portfolio](https://hashara13.github.io/HasharaNethmin-Portfolio-/)
+
+## Blog
+
+- [Medium](https://medium.com/@hasharanethmin)
+- [Personal Blog](https://hasharanethmin.blogspot.com/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://twitter.com/hashara_nethmin" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hashara nethmin" height="30" width="40" />
   </a>
