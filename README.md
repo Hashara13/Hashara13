@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDU5MGExbzZvYmFhZWdhNGRkOG9yYWVod2Zsc3J3YXM2b3RhMmE0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="34px">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDU5MGExbzZvYmFhZWdhNGRkOG9yYWVod2Zsc3J3YXM2b3RhMmE0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="70%" alt="animated cover">
   Hi 👋, I'm 
   <a href="https://github.com/hashara13">
     <span style="color: #2f54eb; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);" class="animated-name">
@@ -8,10 +8,6 @@
   </a>
 </h1>
 <h3 align="center">I am a passionate and driven IT undergraduate with a strong interest in software development & Software Quality Assurance</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50%" alt="animated cover">
-</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
