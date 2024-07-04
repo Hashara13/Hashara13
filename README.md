@@ -126,15 +126,18 @@
 
 ## My Tech Stack
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
-![TestNG](https://img.shields.io/badge/-TestNG-black?style=flat-square&logo=testng)
-![JUnit](https://img.shields.io/badge/-JUnit-black?style=flat-square&logo=junit5)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=for-the-badge&logo=selenium)
+![TestNG](https://img.shields.io/badge/-TestNG-black?style=for-the-badge&logo=testng)
+![JUnit](https://img.shields.io/badge/-JUnit-black?style=for-the-badge&logo=junit5)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
+
 
 ## Portfolio
 
