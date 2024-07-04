@@ -2,14 +2,13 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWo2Z2s1ZWVzNWJiYWdybXp0OWNmZGsxOXpyb3pibnNpaDdtcWdpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g04lCCTUHSw03W7pqD/giphy.gif" width="100%" style="max-height: 190px;" alt="animated cover">
   <br>
   <hr/>
-
-  <a href="https://github.com/hashara13">
-    <h1 align="center">
-       Hi 👋, There I'm
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hashara+Nethmin !;" />
-    </h1>
+  
+ <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=600&size=45&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=720&height=100&lines=Hi+%F0%9F%91%8B%2C+There+I'm+Hashara+Nethmin" alt="Typing SVG" style="font-family: 'Righteous', sans-serif; color: #333;">
   </a>
-</h1>
+</div>
+
 
 <h3 align="center">I am a passionate and driven IT undergraduate with a strong interest
   <br> in software development & Software Quality Assurance in Automation testing.</h3>
