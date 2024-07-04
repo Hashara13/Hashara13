@@ -1,12 +1,14 @@
 <h1 align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxkankzMHF3MDltdXlqaHI5aXg1dXdoeXp1czFsdWhiaWtjOHl6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%"  style="max-height: 200px;" alt="animated cover">
-  Hi 👋, I'm 
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxkankzMHF3MDltdXlqaHI5aXg1dXdoeXp1czFsdWhiaWtjOHl6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%" style="max-height: 250px;" alt="animated cover">
+  <br>
+  Hi 👋, I'm
   <a href="https://github.com/hashara13">
     <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hashara+Nethmin!;" />
-</h1>
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hashara+Nethmin!;" />
+    </h1>
   </a>
 </h1>
+
 <h3 align="center">I am a passionate and driven IT undergraduate with a strong interest in software development & Software Quality Assurance</h3>
 
 <p align="left">
