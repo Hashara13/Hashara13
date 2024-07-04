@@ -83,13 +83,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" alt="selenium" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/>
   </a>
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/JUnit_5_Banner.png" alt="junit5" width="40" height="40"/>
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/>
   </a>
   <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/cbeust/testng/master/testng.png" alt="testng" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/walmyrcarvalho/testng-icons/main/testng/testng-original.svg" alt="testng" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
