@@ -136,15 +136,14 @@
 ![JUnit](https://img.shields.io/badge/-JUnit-black?style=flat-square&logo=junit5)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
-## Contact
+## Portfolio
 
-- Email: hnethmin13@gmail.com
-- Portfolio: [Hashara Nethmin Portfolio](https://hashara13.github.io/HasharaNethmin-Portfolio-/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=notion&logoColor=white)](https://hashara13.github.io/HasharaNethmin-Portfolio-/)
 
 ## Blog
 
-- [Medium](https://medium.com/@hasharanethmin)
-- [Personal Blog](https://hasharanethmin.blogspot.com/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hasharanethmin)
+[![Personal Blog](https://img.shields.io/badge/Personal%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://hasharanethmin.blogspot.com/)
 
 # Connect with me
 
@@ -154,5 +153,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_kanchuka?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008720083262&mibextid=ZbWKwL)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hasharanethmin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hnethmin13@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hasharanethmin2555?si=FQ44x-dDTZdiwyMt)
 
