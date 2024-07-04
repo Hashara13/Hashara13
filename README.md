@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWo2Z2s1ZWVzNWJiYWdybXp0OWNmZGsxOXpyb3pibnNpaDdtcWdpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g04lCCTUHSw03W7pqD/giphy.gif" width="100%" style="max-height: 190px;" alt="animated cover">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" style="max-height: 190px;" alt="animated cover">
   <br>
   <hr/>
   
