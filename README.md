@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxkankzMHF3MDltdXlqaHI5aXg1dXdoeXp1czFsdWhiaWtjOHl6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%" style="max-height: 250px;" alt="animated cover">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWo2Z2s1ZWVzNWJiYWdybXp0OWNmZGsxOXpyb3pibnNpaDdtcWdpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g04lCCTUHSw03W7pqD/giphy.gif" width="100%" style="max-height: 190px;" alt="animated cover">
   <br>
   Hi 👋, I'm
   <a href="https://github.com/hashara13">
