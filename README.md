@@ -1,14 +1,26 @@
 <h1 align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxkankzMHF3MDltdXlqaHI5aXg1dXdoeXp1czFsdWhiaWtjOHl6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%" alt="animated cover">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxkankzMHF3MDltdXlqaHI5aXg1dXdoeXp1czFsdWhiaWtjOHl6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%"  style="max-height: 300px;" alt="animated cover">
   Hi 👋, I'm 
   <a href="https://github.com/hashara13">
     <span style="color: #2f54eb; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);" class="animated-name">
-      Hashara Nethmin
+    <h1><span class="animated-text">Hashara Nethmin</span></h1>
     </span>
   </a>
 </h1>
 <h3 align="center">I am a passionate and driven IT undergraduate with a strong interest in software development & Software Quality Assurance</h3>
+<style>
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
 
+.animated-text {
+  overflow: hidden;
+  border-right: .15em solid orange; 
+  white-space: nowrap; 
+  animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
+}
+</style>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hashara13&theme=darkhub" alt="hashara13" />
