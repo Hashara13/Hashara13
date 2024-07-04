@@ -21,7 +21,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **ExpressJs**
+- 🌱 I’m currently learning **Automation Frameworks**
 
 - 📝 I regularly write articles on [Medium](https://hasharanethmin.medium.com/)
 
@@ -82,7 +82,41 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" alt="selenium" width="40" height="40"/>
+  </a>
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/JUnit_5_Banner.png" alt="junit5" width="40" height="40"/>
+  </a>
+  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/cbeust/testng/master/testng.png" alt="testng" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://pytest.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  </a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  </a>
 </p>
+
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashara13&show_icons=true&locale=en&layout=compact&theme=radical" alt="hashara13" />
