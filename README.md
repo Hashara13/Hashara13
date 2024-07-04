@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWo2Z2s1ZWVzNWJiYWdybXp0OWNmZGsxOXpyb3pibnNpaDdtcWdpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g04lCCTUHSw03W7pqD/giphy.gif" width="100%" style="max-height: 190px;" alt="animated cover">
   <br>
+  <hr/>
   Hi 👋, I'm
   <a href="https://github.com/hashara13">
     <h1 align="center">
@@ -8,7 +9,7 @@
     </h1>
   </a>
 </h1>
-
+<hr/>
 <h3 align="center">I am a passionate and driven IT undergraduate with a strong interest in software development & Software Quality Assurance</h3>
 
 <p align="left">
@@ -57,6 +58,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hashara13&show_icons=true&locale=en&theme=radical" alt="hashara13" />
 </p>
 
+<hr/>
 ## Profile Views Counter
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hashara13&color=blueviolet&style=flat-square)
