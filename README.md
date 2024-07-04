@@ -31,19 +31,21 @@
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hnethmin13@gmail.com)
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks & Tools ⚒️</h2>
+
 <br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask,selenium,junit,testng,aws,azure" /><br>
 </div>
 
-
-
 <br/>
+
 <hr/>
+
 
 
 <p>
