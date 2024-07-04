@@ -58,7 +58,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hashara13&show_icons=true&locale=en&theme=radical" alt="hashara13" />
 </p>
 
-<hr/>
+
 ## Profile Views Counter
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hashara13&color=blueviolet&style=flat-square)
