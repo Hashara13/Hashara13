@@ -21,13 +21,14 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Automation Frameworks**
+- 🌱 I’m currently learning **Automation Frameworks** and exploring advanced techniques in software testing.
 
-- 📝 I regularly write articles on [Medium](https://hasharanethmin.medium.com/)
+- 📝 I regularly write articles on [Medium](https://hasharanethmin.medium.com/) about software development, automation, and emerging technologies.
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MEARN stack**, including MongoDB, Express.js, React, Node.js, and related technologies.
 
-- 📫 How to reach me **hnethmin13@gmail.com**
+- 📫 How to reach me: [hnethmin13@gmail.com](mailto:hnethmin13@gmail.com)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
