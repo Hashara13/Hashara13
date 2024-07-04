@@ -57,7 +57,9 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hashara13&show_icons=true&locale=en&theme=radical" alt="hashara13" />
 </p>
-
+<p>&nbsp;
+   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=radical" alt="streak stats"/>
+</p>
 
 ## Profile Views Counter
 
