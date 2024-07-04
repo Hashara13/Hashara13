@@ -2,15 +2,17 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWo2Z2s1ZWVzNWJiYWdybXp0OWNmZGsxOXpyb3pibnNpaDdtcWdpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g04lCCTUHSw03W7pqD/giphy.gif" width="100%" style="max-height: 190px;" alt="animated cover">
   <br>
   <hr/>
-  Hi 👋, I'm
+
   <a href="https://github.com/hashara13">
     <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hashara+Nethmin!;" />
+       Hi 👋, There I'm
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hashara+Nethmin !;" />
     </h1>
   </a>
 </h1>
-<hr/>
-<h3 align="center">I am a passionate and driven IT undergraduate with a strong interest in software development & Software Quality Assurance</h3>
+
+<h3 align="center">I am a passionate and driven IT undergraduate with a strong interest
+  <br> in software development & Software Quality Assurance in Automation testing.</h3>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
