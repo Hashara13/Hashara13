@@ -3,7 +3,7 @@
   Hi 👋, I'm 
   <a href="https://github.com/hashara13">
     <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hashara+Nethmin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hashara+Nethmin!;" />
 </h1>
   </a>
 </h1>
