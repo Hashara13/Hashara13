@@ -12,7 +12,7 @@
 
 
 <h3 align="center">I am a passionate and driven IT undergraduate with a strong interest
-  <br> in software development & Software Quality Assurance in Automation testing.</h3>
+  <br> in software development & Automation testing.</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -26,11 +26,11 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Automation Frameworks** and exploring advanced techniques in software testing.
+- 🌱 I’m currently learning **Data Modeling** and exploring advanced techniques in software testing.
 
 - 📝 I regularly write articles on [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hasharanethmin) about software development, automation, and emerging technologies.
 
-- 💬 Ask me about **MEARN stack**, including MongoDB, Express.js, React, Node.js, and related technologies.
+- 💬 Ask me about **MEARN stack**, including MongoDB, Express.js, React, Node.js, and Python Flask, Django related technologies.
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hnethmin13@gmail.com)
 
