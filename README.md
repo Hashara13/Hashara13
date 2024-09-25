@@ -65,6 +65,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hashara13&color=blueviolet&style=flat-square)
 </div>
+<div align="center">
+  
 ## My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
@@ -81,17 +83,28 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase)
 
+</div>
 
-
+<div align="center">
+  
 ## Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=notion&logoColor=white)](https://hashara-nethmin.vercel.app/)
 
+</div>
+
+<div align="center">
+  
 ## Blog
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hasharanethmin)
 [![Personal Blog](https://img.shields.io/badge/Personal%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://hasharanethmin.blogspot.com/)
 
+
+</div>
+
+<div align="center">
+  
 # Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashara-nethmin-084925213)
@@ -103,3 +116,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hnethmin13@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hasharanethmin2555?si=FQ44x-dDTZdiwyMt)
 
+</div>
