@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=notion&logoColor=white)](https://hashara13.github.io/HasharaNethmin-Portfolio-/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=notion&logoColor=white)](https://hashara-nethmin.vercel.app/)
 
 </div>
 
@@ -83,7 +83,7 @@
 
 ## Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=notion&logoColor=white)](https://hashara13.github.io/HasharaNethmin-Portfolio-/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=notion&logoColor=white)](https://hashara-nethmin.vercel.app/)
 
 ## Blog
 
