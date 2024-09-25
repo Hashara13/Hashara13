@@ -14,21 +14,26 @@
 <h2 align="center">I am a passionate and driven IT undergraduate with a strong interest
   <br> in software development & Automation testing.</h2>
 
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=notion&logoColor=white)](https://hashara-nethmin.vercel.app/)
+
+
+</div>
+
+
+- 🌱 I’m currently learning **Data Modeling** and exploring advanced techniques in software testing.
+
+- 💬 Ask me about **MEARN stack**, including MongoDB, Express.js, React, Node.js, and Python Flask, Django related technologies.
+
 <p align="center">
+  
   <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=Hashara13&theme=monokai" alt="hashara13" />
   </a>
 </p>
 
-<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=notion&logoColor=white)](https://hashara-nethmin.vercel.app/)
-
-</div>
-
-- 🌱 I’m currently learning **Data Modeling** and exploring advanced techniques in software testing.
-
-- 💬 Ask me about **MEARN stack**, including MongoDB, Express.js, React, Node.js, and Python Flask, Django related technologies.
 <hr/>
 
 
@@ -67,7 +72,7 @@
 
 
 </div>
-
+<hr/>
 
 <div align="center">
   
