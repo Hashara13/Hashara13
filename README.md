@@ -32,7 +32,11 @@
 <hr/>
 
 
-<h2 align="center">⚒️ Languages-Frameworks & Tools ⚒️</h2>
+<div align="center">
+
+## ⚒️ LANGUAGES, FRAMEWORKS & TOOLS ⚒️
+
+</div>
 <br/>
 
 
@@ -115,7 +119,7 @@
 
 <div align="center">
   
-# GET IN TOUCH
+## GET IN TOUCH
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashara-nethmin-084925213)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hashara_nethmin)
