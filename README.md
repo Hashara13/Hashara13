@@ -70,16 +70,15 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vue.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase)
-![Selenium](https://img.shields.io/badge/-Selenium-black?style=for-the-badge&logo=selenium)
-![TestNG](https://img.shields.io/badge/-TestNG-black?style=for-the-badge&logo=testng)
-![JUnit](https://img.shields.io/badge/-JUnit-black?style=for-the-badge&logo=junit5)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
+
 
 
 ## Portfolio
