@@ -53,15 +53,15 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashara13&show_icons=true&locale=en&layout=compact&theme=radical" alt="hashara13" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hashara13&show_icons=true&locale=en&layout=compact&theme=radical" alt="hashara13" />
+</p>
+<p>&nbsp;
+   <img align="left" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=radical" alt="streak stats"/>
+</p>
+<p>&nbsp;
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hashara13&show_icons=true&locale=en&theme=radical&rank_icon=github&border_radius=10" alt="hashara13" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hashara13&show_icons=true&locale=en&theme=radical&rank_icon=github&border_radius=10" alt="hashara13" />
-</p>
-<p>&nbsp;
-   <img align="center" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=radical" alt="streak stats"/>
-</p>
 <hr/>
 
 <div align="center">
