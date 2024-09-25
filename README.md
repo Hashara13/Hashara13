@@ -11,8 +11,8 @@
 
 
 
-<h5 align="center">I am a passionate and driven IT undergraduate with a strong interest
-  <br> in software development & Automation testing.</h5>
+<h1 align="center">I am a passionate and driven IT undergraduate with a strong interest
+  <br> in software development & Automation testing.</h1>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
