@@ -58,6 +58,7 @@
 <p>&nbsp;
    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=radical" alt="streak stats"/>
 </p>
+<hr/>
 
 <div align="center">
 
