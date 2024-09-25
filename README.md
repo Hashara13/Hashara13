@@ -20,15 +20,11 @@
   </a>
 </p>
 
-<p align="center">
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=notion&logoColor=white)](https://hashara13.github.io/HasharaNethmin-Portfolio-/)
 
-
-  <a href="https://twitter.com/hashara_nethmin" target="blank">
-    <img src="https://img.shields.io/twitter/follow/hashara_nethmin?logo=twitter&style=for-the-badge" alt="hashara nethmin" />
-  </a>
-</p>
+</div>
 
 - 🌱 I’m currently learning **Data Modeling** and exploring advanced techniques in software testing.
 
