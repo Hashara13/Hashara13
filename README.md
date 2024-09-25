@@ -62,7 +62,7 @@
 
 <div align="center">
 
-## Profile Views Counter
+## PROFILE VIEWS
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hashara13&color=blueviolet&style=flat-square)
 </div>
@@ -71,7 +71,7 @@
 
 <div align="center">
   
-## My Tech Stack
+## TECH STACK
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
@@ -93,7 +93,7 @@
 
 <div align="center">
   
-## Portfolio
+## PORTFOLIO
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=notion&logoColor=white)](https://hashara-nethmin.vercel.app/)
 
@@ -103,7 +103,7 @@
 
 <div align="center">
   
-## Blog
+## BLOGS
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hasharanethmin)
 [![Personal Blog](https://img.shields.io/badge/Personal%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://hasharanethmin.blogspot.com/)
@@ -115,7 +115,7 @@
 
 <div align="center">
   
-# Connect with me
+# GET IN TOUCH
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashara-nethmin-084925213)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hashara_nethmin)
