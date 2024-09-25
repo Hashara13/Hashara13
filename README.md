@@ -51,6 +51,14 @@
 
 
 
+
+
+<hr/>
+
+<div align="center">
+
+## PROFILE STATS
+
 <p>&nbsp;
    <img align="left" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=radical" alt="streak stats"/>
 </p>
@@ -61,12 +69,6 @@
 <p>&nbsp;
   <img  src="https://github-readme-stats.vercel.app/api?username=Hashara13&show_icons=true&locale=en&theme=radical&rank_icon=github&border_radius=10" alt="hashara13" />
 </p>
-
-<hr/>
-
-<div align="center">
-
-## PROFILE VIEWS
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hashara13&color=blueviolet&style=flat-square)
 </div>
