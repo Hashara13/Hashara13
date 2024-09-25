@@ -47,18 +47,12 @@
 </div>
 <br/>
 
-
-
-
-
-
-
 <hr/>
 
 <div align="center">
 
 ## PROFILE STATS
-
+  ![Profile Views](https://komarev.com/ghpvc/?username=Hashara13&color=blueviolet&style=flat-square)
 <div style="display: flex; justify-content: center;">
   <img align="left" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=radical" alt="streak stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hashara13&show_icons=true&locale=en&layout=compact&theme=radical" alt="hashara13" />
@@ -68,9 +62,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hashara13&show_icons=true&locale=en&theme=radical&rank_icon=github&border_radius=10" alt="hashara13" />
 </div>
 
-<p>
-  ![Profile Views](https://komarev.com/ghpvc/?username=Hashara13&color=blueviolet&style=flat-square)
-</p>
+
+
+
 
 </div>
 
