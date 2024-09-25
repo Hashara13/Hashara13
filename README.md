@@ -66,6 +66,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hashara13&color=blueviolet&style=flat-square)
 </div>
+
+<hr/>
+
 <div align="center">
   
 ## My Tech Stack
@@ -86,6 +89,8 @@
 
 </div>
 
+<hr/>
+
 <div align="center">
   
 ## Portfolio
@@ -93,6 +98,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=notion&logoColor=white)](https://hashara-nethmin.vercel.app/)
 
 </div>
+
+<hr/>
 
 <div align="center">
   
@@ -103,6 +110,8 @@
 
 
 </div>
+
+<hr/>
 
 <div align="center">
   
@@ -118,3 +127,5 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hasharanethmin2555?si=FQ44x-dDTZdiwyMt)
 
 </div>
+
+<hr/>
