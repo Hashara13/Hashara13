@@ -12,7 +12,7 @@
 
 
 <h2 align="center">I am a passionate and driven IT undergraduate with a strong interest
-  <br> in software development & Automation testing.</h2>
+  <br> in Software development. </h2>
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Data Modeling** and exploring advanced techniques in software testing.
+- 🌱 I’m currently learning **Data Modeling** and exploring advanced techniques in software deploying.
 
 - 💬 Ask me about **MEARN stack**, including MongoDB, Express.js, React, Node.js, and Python Flask, Django related technologies.
 
