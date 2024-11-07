@@ -100,7 +100,7 @@
   
 ## PORTFOLIO
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=notion&logoColor=white)](https://hashara-nethmin.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=notion&logoColor=white)](https://hasharanethmin.netlify.app)
 
 </div>
 
