@@ -20,12 +20,6 @@
 
 
 </div>
-
-
-- 🌱 I’m currently learning **Data Modeling** and exploring advanced techniques in software deploying.
-
-- 💬 Ask me about **MEARN stack**, including MongoDB, Express.js, React, Node.js, and Python Flask, Django related technologies.
-
 <p align="center">
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
